@@ -1,4 +1,3 @@
-const fs = require('fs');
 const { fsReadFile, convertor } = require('./util');
 const { LATITUDE, LONGITUDE } = require('./constants')
 
